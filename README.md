@@ -1,3 +1,3 @@
 https://www.youtube.com/watch?v=uCNNoioGtzI
 
-cplusplus.com/reference/stack/stack
+https://www.cplusplus.com/reference/stack/stack
